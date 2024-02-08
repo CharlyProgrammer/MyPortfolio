@@ -1,0 +1,4 @@
+ABOUT THIS FOLDER
+--------------------------------------------------------------------------
+The present folder will contein all images related to the project, including images such as screenshots, example images, images of the database, and any other kind 
+of images or photographs with a certain grade of impartance. 
