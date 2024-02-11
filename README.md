@@ -12,6 +12,7 @@
  * Perceptron Algorithm
  * Pocket Algorithm
  * Linear regression model
+ * Machine learning
  * Kind of task: Classification problem
  * Learning paradigm: Supervised
  * Libraries & important modules used:Numpy, matplotlib, Scikit-learn 
