@@ -12,7 +12,25 @@
  * Perceptron Algorithm
  * Pocket Algorithm
  * Linear regression model
- * Machine learning
- * Kind of task: Classification problem
  * Learning paradigm: Supervised
- * Libraries & important modules used:Numpy, matplotlib, Scikit-learn 
+ * Machine learning
+
+### ⚙️ &nbsp;Features
+
+- Dataset size: 9298 images (numbers from 0 to 9)
+- Dataset format file: .csv (2 files)
+- Initial number of characteristics: 256
+- Train data size: 1561 images (images with 1 and 5)
+- Test data size: 421 images (images with 1 and 5)
+- Final number of characteristics: 2
+- Characteristics: Intensity and simmetry of an image
+- Output: 2 labels
+- Iterations: 200
+- Best result: 0.3203074951953876 (pocket algorithm Error)
+  
+### 🚀 &nbsp;Tech Stack
+
+**Programming languages & tools:** Python, Jupyter notebook
+
+**Libraries & modules:** Numpy, matplotlib, seaborn, Scikit-learn 
+   
