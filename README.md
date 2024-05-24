@@ -26,7 +26,7 @@
 - Characteristics: Intensity and simmetry of an image
 - Output: 2 labels
 - Iterations: 200
-- Best result: 0.3203074951953876 (pocket algorithm Error)
+- Best result: 0.321 (pocket algorithm Error)
   
 ### 🚀 &nbsp;Tech Stack
 
